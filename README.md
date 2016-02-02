@@ -1,7 +1,5 @@
 #FS3000  Cinder Driver
-| Branch  | Unit Test Status |
-| ------- | ------------ |
-| master  | [![Travis branch][travis-ci-master-img]][travis-ci-master-url] |
+[![Build Status](https://travis-ci.org/fs-openstack/fs-cinder-driver.svg?branch=master)](https://travis-ci.org/fs-openstack/fs-cinder-driver)
 
 Copyright (c) 2016 Fortunet, Inc. All Rights Reserved.
 
