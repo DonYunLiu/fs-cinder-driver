@@ -1,10 +1,7 @@
-FS3000  Cinder Driver
-=============
+#FS3000  Cinder Driver
 | Branch  | Unit Test Status |
 | ------- | ------------ |
-| current | [![Travis branch][travis-ci-img]][travis-ci-url] |
 | master  | [![Travis branch][travis-ci-master-img]][travis-ci-master-url] |
-| develop | [![Travis branch][travis-ci-dev-img]][travis-ci-dev-url] |
 
 Copyright (c) 2016 Fortunet, Inc. All Rights Reserved.
 
@@ -19,7 +16,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations
 under the License.
-
 
 #FS Cinder Driver
 For development only.
